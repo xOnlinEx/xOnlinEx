@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @Daniel-Flores-Web
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Hola, estoy en proceso de convertirme en un desarrollador Full Stack.**
+# TECHNOLOGIES
+### FRONTEND
+- HTML
+- CSS
+- JS
+- REACT
+### BACKEND
+- JAVA
+- SPRING BOOT
+## OTHER
+- MYSQL
+- GIT
 
 <!---
 Daniel-Flores-Web/Daniel-Flores-Web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

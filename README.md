@@ -1,4 +1,4 @@
-**Hola, estoy en proceso de convertirme en un desarrollador Full Stack.**
+**Hello, I am in the process of becoming a Full Stack developer.**
 # TECHNOLOGIES
 ### FRONTEND
 - HTML

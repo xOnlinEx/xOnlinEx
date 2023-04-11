@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm in the process of becoming a Full Stack developer.</h1>
+<h1 align="center">Hi 👋, I'm in the process of becoming a Backend developer.</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xonlinex&label=Profile%20views&color=0e75b6&style=flat" alt="xonlinex" /> </p>
 

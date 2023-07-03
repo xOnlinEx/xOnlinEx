@@ -11,7 +11,7 @@ Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asu
 - 📫 Cómo contactarme: daniel.floresvargas666@gmail.com 
 
 ## Tecnologias con las que trabajo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,java,maven,spring,postman,mysql,linux,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,angular,java,maven,spring,postman,mysql,linux,git,docker)](https://skillicons.dev)
 
 
 ## 🌐 Social:

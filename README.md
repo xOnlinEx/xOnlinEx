@@ -15,7 +15,7 @@ Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asu
 
 
 ## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/daniel-manuel-flores-vargas-05ab2a214
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/daniel-flores-05ab2a214/
 
 
 

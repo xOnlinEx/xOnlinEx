@@ -1,23 +1,22 @@
-[![](https://visitcount.itsvg.in/api?id=Daniel-Flores-Web&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="right" width="345" src="https://steamuserimages-a.akamaihd.net/ugc/1869553886388207956/EFF4D03D2C308E1D1609327F94EC7D407511461B/" alt="IMAGE">
+
+# Hi there, I'm Daniel Flores - Full-Stack Developer 👋
+
+Welcome to my GitHub corner! My passion for creation and problem-solving has led me to explore and work on a variety of exciting projects. My goal is to keep growing as a developer and contribute to projects that challenge me and allow me to learn every day.
 
 
-![Header](https://github.com/Daniel-Flores-Web/Daniel-Flores-Web/blob/main/assets/profile.png)
+## Tech I Work With
 
-## Soy un Desarrollador Java Backend responsable y eficiente ✔.
-Tengo como objetivo adquirir experiencia, aprender de grandes profesionales, asumir nuevas responsabilidades y crecer como desarrollador.
+Here's a quick view of some of the technologies I work with.
 
-<!-- - 🌱 Estoy aprendiendo Spring boot, Junit, Docker-->
-- 👯 Quiero colaborar con Proyectos que me brinden experiencias y ayuden a crecer como Desarrollador 
-- 📫 Cómo contactarme: daniel.floresvargas666@gmail.com 
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=java,js,python,spring,kafka,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,tailwind,postgres,mongo)](https://skillicons.dev)
 
-## Tecnologias con las que trabajo
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,typescript,angular,tailwind,java,maven,spring,postgres,linux,git,docker)](https://skillicons.dev)
+## Connect with Me
 
+Feel free to get in touch if you're interested in collaborating.
 
-## 🌐 Social:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] https://www.linkedin.com/in/daniel-flores-05ab2a214/
+<a href="daniel.floresvargas666@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

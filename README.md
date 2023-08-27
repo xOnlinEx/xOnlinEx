@@ -12,7 +12,6 @@ Welcome to my GitHub corner! With a strong focus on creation and problem-solving
 
 Feel free to get in touch if you're interested in collaborating.
 
-
-[<img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white">](mailto:daniel.floresvargas666@gmail.com)
-
-
+| <img src="https://img.shields.io/badge/Gmail-f7768e">    | <p>daniel.floresvargas666@gmail.com</p>                                                                    |
+|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| <img src="https://img.shields.io/badge/Linkedin-7aa2f7"> | <a href="https://www.linkedin.com/in/daniel-flores-05ab2a214/">linkedin.com/in/daniel-flores-05ab2a214</a> |

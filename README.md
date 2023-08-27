@@ -12,6 +12,6 @@ Welcome to my GitHub corner! With a strong focus on creation and problem-solving
 
 Feel free to get in touch if you're interested in collaborating.
 
-<a href="daniel.floresvargas666@gmail.com?"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="daniel.floresvargas666@gmail.com"><img src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 

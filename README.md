@@ -2,12 +2,7 @@
 
 # Hi there, I'm Daniel Flores - Full-Stack Developer 👋
 
-Welcome to my GitHub corner! My passion for creation and problem-solving has led me to explore and work on a variety of exciting projects. My goal is to keep growing as a developer and contribute to projects that challenge me and allow me to learn every day.
-
-
-## Tech I Work With
-
-Here's a quick view of some of the technologies I work with.
+Welcome to my GitHub corner! With a strong focus on creation and problem-solving, I'm committed to my growth and to developing projects that foster my daily learning.
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,js,python,spring,kafka,docker,kubernetes)](https://skillicons.dev)

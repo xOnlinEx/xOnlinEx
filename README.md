@@ -6,6 +6,8 @@ Welcome to my GitHub corner! With a strong focus on creation and problem-solving
 
 ## Skills
 [![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,kafka,docker,kubernetes)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,bash,graphql,nginx,redis,jenkins)](https://skillicons.dev)
+
 ## Connect with Me
 
 Feel free to get in touch if you're interested in collaborating.

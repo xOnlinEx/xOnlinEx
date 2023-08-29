@@ -5,9 +5,7 @@
 Welcome to my GitHub corner! With a strong focus on creation and problem-solving, I'm committed to my growth and to developing projects that foster my daily learning.
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,js,python,spring,kafka,docker,kubernetes)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,react,redux,tailwind,postgres,mongo)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=java,postgres,spring,kafka,docker,kubernetes)](https://skillicons.dev)
 ## Connect with Me
 
 Feel free to get in touch if you're interested in collaborating.

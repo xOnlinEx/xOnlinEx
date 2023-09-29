@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=Daniel-Flores-Web&color=blueviolet)
+
 <img align="right" width="345" src="https://steamuserimages-a.akamaihd.net/ugc/1869553886388207956/EFF4D03D2C308E1D1609327F94EC7D407511461B/" alt="IMAGE">
 
 # Hi there, I'm Daniel Flores - Full-Stack Developer 👋

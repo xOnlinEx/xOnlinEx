@@ -1,18 +1,60 @@
-![](https://komarev.com/ghpvc/?username=Daniel-Flores-Web&color=blueviolet)
+<!-- xOnlinEx GitHub Profile -->
+<div align="justify">
 
-[comment]:<img align="right" width="345" src="https://steamuserimages-a.akamaihd.net/ugc/1869553886388207956/EFF4D03D2C308E1D1609327F94EC7D407511461B/" alt="IMAGE">
+<!-- Profile -->
+<p align="left"><strong><samp>「</samp></strong></p>
+  <p align="center">
+    <samp>
+      <b>
+        Hola
+      <br>
+        Soy xOnlinEx, desarrollador backend, uso principalmente Java con Spring Boot.
+      </b>
+      <br>
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Desarrollo+constante+en+el+mundo+tech.">
+      <br>
+    </samp>
+  </p>
+<p align="right"><strong><samp>」</samp></strong></p>
 
-# Hi there, I'm Daniel Flores - Backend Developer 👋
+<br>
 
-Welcome to my GitHub corner! With a strong focus on creation and problem-solving, I'm committed to my growth and to developing projects that foster my daily learning.
+<details>
+<summary><samp><b>More Info</b></samp></summary>
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=java,spring,maven,gradle,docker,postgres,mysql)](https://skillicons.dev)
+<h2></h2><br>
 
-## Connect with Me
+<!-- Contact Me -->
+<p align="center">
+  <samp>  
+    puedes contactar conmigo en [<a href="mailto:daniel.floresvargas666@gmail.com?">Gmail</a>]
+  </samp>
+</p>
 
-Feel free to get in touch if you're interested in collaborating.
+<h2></h2><br>
 
-| <img src="https://img.shields.io/badge/Gmail-f7768e">    | <p>daniel.floresvargas666@gmail.com</p>                                                                    |
-|----------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| <img src="https://img.shields.io/badge/Linkedin-7aa2f7"> | <a href="https://www.linkedin.com/in/daniel-flores-05ab2a214/">linkedin.com/in/daniel-flores-05ab2a214</a> |
+<p align="center">
+  <samp>
+  <a href="#--------">
+    <img src="https://komarev.com/ghpvc/?username=xOnlinEx&label=Profile+Views&color=blue" alt="profile views" /> 
+  </a>
+  </samp>
+</p>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img align="center" alt="GitHub Trophy" src="https://github-profile-trophy.vercel.app/?username=xOnlinEx&theme=tokyonight"></a></td>
+    </tr>
+  </table>
+</div>
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="#--------"><img height="137px" align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=xOnlinEx&theme=tokyonight"/></a></td>
+      <td><a href="#--------"><img height="137px" align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xOnlinEx&layout=compact&theme=tokyonight"/></a></td>
+    </tr>
+  </table>
+</div>
+</details>
+</div>
+

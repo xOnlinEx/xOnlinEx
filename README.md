@@ -20,7 +20,7 @@
 <br>
 
 <details>
-<summary><samp><b>More Info</b></samp></summary>
+<summary><samp><b>Más información</b></samp></summary>
 
 <h2></h2><br>
 

@@ -6,12 +6,12 @@
   <p align="center">
     <samp>
       <b>
-        Hola
+        Hi
       <br>
-        Soy xOnlinEx, desarrollador backend, uso principalmente Java con Spring Boot.
+        I am xOnlinEx, backend developer, mainly using Java with Spring Boot.
       </b>
       <br>
-        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Desarrollo+constante+en+el+mundo+tech.">
+        <image src="https://readme-typing-svg.herokuapp.com?font=Iosevka&size=16&color=6791c9&center=true&width=410&height=45&lines=Constant+development+in+the+tech+world">
       <br>
     </samp>
   </p>
@@ -20,14 +20,14 @@
 <br>
 
 <details>
-<summary><samp><b>Más información</b></samp></summary>
+<summary><samp><b>More information</b></samp></summary>
 
 <h2></h2><br>
 
 <!-- Contact Me -->
 <p align="center">
   <samp>  
-    puedes contactar conmigo en [<a href="mailto:daniel.floresvargas666@gmail.com?">Gmail</a>]
+    you can contact me at [<a href="mailto:daniel.floresvargas666@gmail.com?">Gmail</a>]
   </samp>
 </p>
 
